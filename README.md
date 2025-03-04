@@ -1,2 +1,9 @@
 # LeetCode-Question
- Contains solutions to LeetCode problems in Java.
+Contains solutions to 40 LeetCode algorithm problems in Java.
+
+
+
+
+
+
+
